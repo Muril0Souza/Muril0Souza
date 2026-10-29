@@ -21,14 +21,14 @@ Este laboratório foi realizado em ambiente controlado e autorizado, com foco em
 
 | Item | Detalhes |
 |---|---|
-| Máquina atacante |  |
-| Sistema operacional |  |
-| Ferramentas |  |
-| Máquina alvo |  |
-| Sistema operacional |  |
-| Serviços analisados |  |
-| Tipo de rede |  |
-| Virtualizador |  |
+| Máquina atacante | Kali Linux |
+| Sistema operacional | kali linux  |
+| Ferramentas | Medusa e Nmap |
+| Máquina alvo | Metasploitable 2 |
+| Sistema operacional | Ubuntu 8.04|
+| Serviços analisados |	FTP, SSH, SMB  |
+| Tipo de rede |Rede interna  |
+| Virtualizador | VirtualBox |
 
 [INSERIR EVIDÊNCIA: configuração das máquinas virtuais/rede no VirtualBox]
 
